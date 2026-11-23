@@ -34,3 +34,7 @@ Python's standard library is sufficient. The first run needs internet access to 
 - **Signals.** A predicted return of at least +8% is a boom, and a return of −8% or lower is a bust. Values between those thresholds are neutral.
 
 To view the historical snapshot, download [market_backtest.html](market_backtest.html) and open it in a browser. Move the slider to inspect an individual forecast. Running the Python script prints a new backtest in the terminal.
+
+## React dashboard and Python API
+
+See the [dashboard setup guide](dashboard/README.md) for local development and container deployment.

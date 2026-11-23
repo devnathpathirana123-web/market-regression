@@ -1,0 +1,4 @@
+node_modules/
+dist/
+fred_data/
+__pycache__/
